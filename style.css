@@ -50,3 +50,36 @@
     font-weight: bold;
     margin: 10px;
 }
+.boxdiv{
+    background-color: black;
+}
+.main-box{
+    width: 80%;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.left-side{
+    width: 50%;
+    margin: left;
+}
+.box{
+    background-color: white;
+    width: 200px;
+    height: 240px;
+    text-align: center;
+    padding: 50px 30px;
+    border-radius: 10px;
+    
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.box-head{
+    color: black;
+}
+.right-side{
+    display: flex;
+}
